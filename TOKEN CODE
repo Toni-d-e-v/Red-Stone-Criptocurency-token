@@ -108,11 +108,11 @@ contract ERC20Token is StandardToken {
 
     function ERC20Token(
         ) {
-        balances[msg.sender] = 100000;               
-        totalSupply = 100000;                        
+        balances[msg.sender] = 1000000;               
+        totalSupply = 1000000;                        
         name = "RedStone";                                   
-        decimals = 0;                            
-        symbol = "RD";                               
+        decimals = 6;                            
+        symbol = "Rs";                               
     }
 
  
