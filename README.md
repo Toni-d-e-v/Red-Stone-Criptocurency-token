@@ -1,9 +1,13 @@
+# Red-Stone Criptocurency Token
+Redstone is developed from screach but until our main net we will havetest net on eth network!
+
+
 # Red-Stone Criptocurency
 
-This Red-Stone Criptocurency its new kinda of Criptocurency you can mine it and buy it
+This Red-Stone Criptocurency its new kinda of Criptocurency 
 
 Token on Ropsten Eth Test Net 
-# RedStone MBP
+# RedStone Multi Blockhain Protocol
 
 ## How it will work?
 How Redstone achives scalablity via a sharded setup.
