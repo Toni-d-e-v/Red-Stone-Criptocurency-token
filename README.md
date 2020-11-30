@@ -1,5 +1,5 @@
 # Red-Stone Criptocurency Token
-Redstone is developed from screach but until our main net we will havetest net on eth network!
+Redstone is developed from scratch but until our main net we will havetest net on eth network!
 
 
 # Red-Stone Criptocurency
